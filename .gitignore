@@ -1,1 +1,5 @@
 build/
+pitfalls/*.o
+pitfalls/p1
+pitfalls/p2
+pitfalls/p3
